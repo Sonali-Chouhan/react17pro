@@ -11,4 +11,4 @@ const Contactoage = () => {
   )
 }
 
-export default Contactoage
+export default Contactoage;
